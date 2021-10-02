@@ -3,5 +3,5 @@
 
 1st Objective:
 Comparing statistical accuracy of pre-trained model + classifying algorithm 
-- SVM
-- ResNet+VGG
+- SVM - 76.84%
+- ResNet+VGG - 
