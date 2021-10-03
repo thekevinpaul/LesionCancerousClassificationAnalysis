@@ -8,7 +8,7 @@ There are two objectives for this project:
 ### Comparing statistical accuracy of pre-trained model + classifying algorithm 
 Here we observe results of various pre trained models or classifying algorithms on its own.
 - SVM - 76.84%
-- ResNet
+- ResNet - 80.99%
 - Inception
 - VGG
 - ResNet + VGG16
